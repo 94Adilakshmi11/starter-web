@@ -10,6 +10,7 @@ Updating for emergency fix after stashing
 Sample website with plenty of files for demos
 
 ##Deployment
+Under process
 
 ## How To Contribute
 
@@ -17,6 +18,7 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue Pull Requests for review.
 =======
 ###Copyright
+
 
 All Rights Reserved.
 >>>>>>> simple-changes

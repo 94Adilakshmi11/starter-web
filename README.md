@@ -10,7 +10,7 @@ Updating for emergency fix after stashing
 Sample website with plenty of files for demos
 
 ##Deployment
-Under process
+
 
 ## How To Contribute
 

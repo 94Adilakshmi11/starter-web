@@ -1,14 +1,14 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology 
 
 # TEAM
 
-   Adilakshmi Kuracha adilakshmikuracha@gmail.com
+   Adilakshmi Kuracha adilakshmikuracha@gmail.com 
 
 # THANKS
 
     Hello!
-	I am Adilakshmi.
+	I am Adilakshmi.I am interested to know about projects , tools and technology.
 
 # TECHNOLOGY COLOPHON
 
